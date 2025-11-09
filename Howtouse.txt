@@ -1,2 +1,0 @@
-pip3 install requests urllib3
-python3 DdosByDk.py
